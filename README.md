@@ -81,7 +81,7 @@ All in one tool for **Information Gathering** and **Vulnerability Scanning**
 + All set, now you can enjoy the bloggers view.
 
 # Usage:
-- git clone `https://github.com/Tuhinshubhra/RED_HAWK`
+- git clone `https://github.com/erson04/RED_HAWK`
 - cd RED_HAWK
 - php rhawk.php
 - Use the "help" command to see the command list or type in the domain name you want to scan (without Http:// OR Https://).
@@ -114,7 +114,7 @@ I'd love to hear from you.
 # Support and Donations
 Found RED HAWK cool? well you could buy me a cup of tea ;) (no alcohol plz xD) just send any amount of donations (in BTC) to this address : **1NbiQidWWVVhWknsfPSN1MuksF8cbXWCku**
 
-Can't donate? well that's no problem just drop a **THANK YOU** this will motivate me to create more exciting stuffs for you ;)
+Can't donate? well that's no problem just drop a **TANKS YA ASW:V** this will motivate me to create more exciting stuffs for you ;)
 
 # TODOs
 
