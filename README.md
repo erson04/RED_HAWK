@@ -83,7 +83,7 @@ All in one tool for **Information Gathering** and **Vulnerability Scanning**
 # Usage:
 - git clone `https://github.com/erson04/RED_HAWK`
 - cd RED_HAWK
-- php rhawk.php
+- python2 rhawk.py
 - Use the "help" command to see the command list or type in the domain name you want to scan (without Http:// OR Https://).
 - Select whether The Site Runs On HTTPS or not.
 - Select the type of scan you want to perform
